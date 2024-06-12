@@ -1,30 +1,47 @@
-
----
 # 🧙 프로젝트 소개
 
 ![KakaoTalk_20240514_173325393](https://github.com/playgroundpj/.github/assets/156178588/27a4dfb6-f156-4151-86af-c2b82196ce1d)
 
-+ MZ와 ALPHA들을 위한 보드게임 카페 **"Playgroud"** 를 소개합니다!
+> MZ와 ALPHA들을 위한 보드게임 카페 **"Playgroud"** 를 소개합니다! <br/> **Playground**는 다양한 보드게임, 게임 중 즐길 수 있는 먹거리 등을 제공합니다.
 
----
+<br/>
+
 # 🌈 개발 기간
-+ 2024.5.16~ 2024.6.13
+> 2024.5.16~ 2024.6.13
 
----
+<br/>
+
 # 🙋‍♀️ 개발자 소개
-+ 민재홍 : jaeghong011@gmail.com
-+ 박세아 : psa90911017@gmail.com
-+ 박예성 : pppoya111@snu.ac.kr
-+ 윤경주 : graceyoon281@gmail.com
+<table>
+	<tr align="center" >
+		<td> 민재홍</td>	
+		<td> 박세아</td>	
+		<td> 윤경주</td>	
+		<td> 박예성</td>	
+ </tr>
+ <tr>
+		<td> jaeghong011@gmail.com</td>	
+		<td> psa90911017@gmail.com </td>	
+		<td> graceyoon281@gmail.com</td>	
+		<td> pppoya111@snu.ac.kr</td>	
+ </tr>
+ <tr>
+		<td> 팀장(일정관리), 업무관리</td>	
+		<td> 문서관리, 이슈관리 </td>	
+		<td> 형상관리 </td>	
+		<td> DB관리</td>	
+ </tr>
+</table>
 
 
-<!--
+<br/>
 
-**Here are some ideas to get you started:**
+## 🛠 개발환경
 
-🙋‍♀️ A short introduction - what is your organization all about?
- Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![image](https://github.com/playgroundpj/.github/assets/19326256/de993744-74b5-496a-89c0-6447af3ac9af)
+
+<br/>
+
+## 주요기능
+
+
